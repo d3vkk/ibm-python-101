@@ -2,24 +2,24 @@ print("Hello World")
 
 print("Python is awesome!")
 
-# Single line comment
+# SINGLE LINE COMMENT
 # print("Hello World")
 
-# Multi line comment
+# MULTI LINE COMMENT
 '''
 comment 1
 comment 2
 comment 3
 '''
 
-# Next line space
+# NEXT LINE SPACE
 print("Hello")
 print("World")
 print("Hello\nWorld")
 
-# Tab space
+# TAB SPACE
 print("\tHello World")
 
-# Single and double quatation marks
+# SINGLE AND DOUBLE QUATATION MARKS
 print("Python\nIs\nAwesome!")
 print('Python\nIs\nAwesome!')

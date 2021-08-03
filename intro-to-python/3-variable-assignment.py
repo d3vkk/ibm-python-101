@@ -1,14 +1,14 @@
-# Variable definition
+# VARIABLE DEFINITION
 x = 1.5          # The variable x now has the float value 1.5
 y = 2            # The variable y now has the int value 2
 z = "Hello"      # The variable z now has the string value “Hello”
 
-# Naming variables
+# NAMING VARIABLES
 my_Variable = 1.5
 my_Variable_2 = 2
 MyVariable3 = "Hello"
 
-# Unacceptable naming
+# UNACCEPTABLE NAMING
 # 1Variable = 5            # variable names cannot start with digits (1)
 # Variable@3 = “Hello”     # variable names cannot contain symbols (@)
 # “Hello” = “hello”        # variable names cannot contain symbols (“ and ”)
@@ -17,7 +17,7 @@ MyVariable3 = "Hello"
 # print("Hello World")
 
 
-# Prinitng variables
+# PRINTING VARIABLES
 x = 1.5
 y = 2
 z = "Hello"
@@ -25,18 +25,18 @@ print(x)
 print(y)
 print(z)
 
-# Reassignment
+# REASSIGNMENT
 x = 12
 y = x
 print(x)
 print(y)
 
-# Dynamically typed (i.e. no variable type declaration)
+# DYNAMICALLY TYPED (I.E. NO VARIABLE TYPE DECLARATION)
 x = 12
 x = "twelve"
 print(x)
 
-# Swapping (Long Form)
+# SWAPPING (LONG FORM)
 x = 10
 y = "ten"
 # Step 1
@@ -51,7 +51,7 @@ y = temp
 print(x)
 print(y)
 
-# Swapping (Short Form)
+# SWAPPING (SHORT FORM)
 x = 10
 y = "ten"
 # Step 1
@@ -59,7 +59,7 @@ x,y = y,x
 print(x)
 print(y)
 
-# Swapping example
+# SWAPPING EXAMPLE
 you = "apple"
 friend = "money"
 
@@ -68,7 +68,7 @@ you,friend = friend,you
 print(friend)
 print(you)
 
-# Nonetype variable
+# NONETYPE VARIABLE
 x = None
 print(x)
 print(type(x))
