@@ -1,5 +1,5 @@
 # APPEND
-# Adds to the back of the list
+# Adds item to the back of the list
 grocery_list = ["milk", "eggs", "bread", "rice"]
 grocery_list.append(20.00)
 print(grocery_list)
